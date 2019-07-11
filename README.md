@@ -12,5 +12,8 @@
 - It doesn’t uses any external library for API call.
 
 
-Github link : 
+### Github link : 
 https://github.com/SatishBirajdar/ResumeApp
+
+### Screenshot:
+![alt text](https://user-images.githubusercontent.com/2321875/61091848-bafc3180-a411-11e9-8ad2-4d2c9e25f6ca.png)
